@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 
 Hi, I’m Jannat Narang, a student and aspiring data scientist/software developer with a passion for machine learning, data analytics, and software development. I am pursuing my studies in data science, software development, and business applications of technology. I am particularly interested in machine learning, predictive analytics, and full-stack development, and I love exploring the intersection of AI, business strategy, and game development.
 
- ##  🔧  Skills 
+ ## Skills 🔧 
  
  
 - Programming: Python, SQL, R  
 - Libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
 - Tools: Jupyter Notebook, Tableau, Power BI
 
- ## 🚀 Projects
+ ## Projects 🚀
  
 1️⃣ 5000 Hydrogen Vehicle Challenge Simulation Game
 
@@ -41,7 +41,7 @@ Hi, I’m Jannat Narang, a student and aspiring data scientist/software develope
 
 🔹 Implements MongoDB as a NoSQL database to store user preferences, playlists, and listening history.
 
-## 🤝 Let's Connect
+## 🤝Let's Connect
 💻 LinkedIn: www.linkedin.com/in/jannat-narang-254734277
 
 📩 Email: jnarang20@norquest.ca
