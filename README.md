@@ -24,7 +24,7 @@ Hi, I’m Jannat Narang, a student and aspiring data scientist/software develope
 - Libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
 - Tools: Jupyter Notebook, Tableau, Power BI
 
-## Projects     
+## Projects      
  
 1️⃣ 5000 Hydrogen Vehicle Challenge  Game
 
