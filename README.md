@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hi, I’m Jannat Narang, a student and aspiring data scientist/software developer with a passion for machine learning, data analytics, and software development. I am pursuing my studies in data science, software development, and business applications of technology. I am particularly interested in machine learning, predictive analytics, and full-stack development, and I love exploring the intersection of AI, business strategy, and game development.
 
-## Hey! 👋
+## Skills 
 
 - Programming: Python, SQL, R  
 - Libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
