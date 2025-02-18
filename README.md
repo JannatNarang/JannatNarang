@@ -27,7 +27,7 @@ Hi, I’m Jannat Narang, a student and aspiring data scientist/software develope
 
  ## Projects 🚀
  
-1️⃣ 5000 Hydrogen Vehicle Challenge Simulation Game
+1️⃣ 5000 Hydrogen Vehicle Challenge  Game
 
 🚗 A Python-based simulation game promoting hydrogen fuel adoption in Edmonton.
 
